@@ -1,9 +1,2 @@
-.vscode
-goldwarden
-__pycache__
-.flatpak-builder
-flatpak-pip-generator
-repo
-__debug*
-.templates
-vendor
+.vscode/
+__pycache__/
